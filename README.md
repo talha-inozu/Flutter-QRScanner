@@ -1,6 +1,6 @@
 # barcode_scanner
 
-A new Flutter project.
+Flutter example for QR Scan
 
 ## Getting Started
 
