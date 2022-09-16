@@ -6,6 +6,7 @@
 *.cc linguist-detectable=false
 *.java linguist-detectable=true
 *.jar linguist-detectable=true
+*.h linguist-detectable=false
 # Always perform LF normalization on these files
 *.dart   text
 *.gradle text
